@@ -22,4 +22,4 @@
 python3 webapp.py
 ```
 Then it automatically run the planing agent. After a few minutes, you will get the result.
-![result] (result2048.gif)
+
