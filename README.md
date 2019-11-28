@@ -1,5 +1,7 @@
 # 2048_Planning
 2048 Agent using Monte Carlo method, can reach 4096 
+It has a cnn layer to extract checkerboard feature and a lstm layer to make logic decision, and
+utilize a strong model to train itself.
 
 ## Code structure
 * [`game2048/`](game2048/): the main package.
